@@ -1,5 +1,7 @@
 # AngularSeminari6
 
+S'ha afegit el model "register". Realitzat amb el repo fork i amb ajuda del ChatGPT.
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
 ## Development server
